@@ -1,0 +1,17 @@
+td{
+    text-align:center;
+}
+th{
+    border: 2px solid black;
+}
+tr{
+    background-color: #8DF7A8;
+}
+img{
+    width: 250px;
+    height: 300px;
+
+}
+.gambar{
+        display: flex;
+}
